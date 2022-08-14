@@ -16,7 +16,7 @@ const Location = () => {
             style={{
               border: "2px solid #F5E4CD ",
               borderRadius: "2ch",
-              height: "30ch",
+              height: "33vh",
               width: "90vw"
             }}></iframe>
         </Box>
