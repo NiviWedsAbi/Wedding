@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Wedding/static/css/main.3fbf0bbf.chunk.css",
+    "main.js": "/Wedding/static/js/main.b490670d.chunk.js",
+    "main.js.map": "/Wedding/static/js/main.b490670d.chunk.js.map",
+    "runtime-main.js": "/Wedding/static/js/runtime-main.3475a1b4.js",
+    "runtime-main.js.map": "/Wedding/static/js/runtime-main.3475a1b4.js.map",
+    "static/js/2.4f866eee.chunk.js": "/Wedding/static/js/2.4f866eee.chunk.js",
+    "static/js/2.4f866eee.chunk.js.map": "/Wedding/static/js/2.4f866eee.chunk.js.map",
+    "index.html": "/Wedding/index.html",
+    "precache-manifest.7705dd2f96f77be487600d2f20a836f0.js": "/Wedding/precache-manifest.7705dd2f96f77be487600d2f20a836f0.js",
+    "service-worker.js": "/Wedding/service-worker.js",
+    "static/css/main.3fbf0bbf.chunk.css.map": "/Wedding/static/css/main.3fbf0bbf.chunk.css.map",
+    "static/js/2.4f866eee.chunk.js.LICENSE.txt": "/Wedding/static/js/2.4f866eee.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Wedding/static/media/backgroundImage.fbe8db07.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3475a1b4.js",
+    "static/js/2.4f866eee.chunk.js",
+    "static/css/main.3fbf0bbf.chunk.css",
+    "static/js/main.b490670d.chunk.js"
+  ]
+}
