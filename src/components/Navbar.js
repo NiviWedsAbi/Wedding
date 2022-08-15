@@ -17,8 +17,9 @@ const Navbar = (props) => {
         const Icon = iconList[index];
         return (
           <Grid item key={index}>
-            <IconButton  onClick={() => {filterItems(category);}}>            
+            <IconButton style={{display: "flex", flexDirection:"column"}} onClick={() => {filterItems(category);}}>            
                 <Icon fontSize={matches ? "large" : "medium" } style ={{ color :(selectedCategory === category) ? "#fd8d83":"5f5f5f"}}/>
+                <p style={{fontSize: "x-small", fontWeight : "bold", fontFamily: "Dancing Script"}}>{category}</p>
             </IconButton>
           </Grid>
         );

@@ -49,6 +49,7 @@ body {
   position: fixed !important;
   bottom: 2ch !important;
   background-color: #F2EBEA;
+  box-shadow: 0.5px 1.5px #dcdcdc;
 }
 
 h1,
